@@ -57,7 +57,7 @@ export default function Home() {
 
       <MaxWidthWrapper>
         <div className="absolute top-40  text-center md:text-left">
-          <p>We're here to help you</p>
+          <p>Were here to help you</p>
           <h1 className=" text-[40px]  sm:text-[60px] font-bold">
             Relax & Rest
           </h1>
@@ -94,7 +94,7 @@ export default function Home() {
               10k+Happy Customers
             </h1>
             <p className="text-[#21384299] max-w-[475px] mb-[29px]">
-              There’s no secret sauce, no wizard behind the curtain. What makes
+              Theres no secret sauce, no wizard behind the curtain. What makes
               Aerolab tick is an interdisciplinary team with a framework that
               fosters candid collaboration.
             </p>
@@ -149,7 +149,7 @@ export default function Home() {
               We started Sleepstiq with 1 simple goal: to be your best friend at
               bedtime. We, just like you, deal with stress, unease, and trouble
               sleeping from a number of silly things like school, work, screens,
-              numbers, and people. That's why we created products that aim to
+              numbers, and people. Thats why we created products that aim to
             </p>
             <p className="flex flex-col  text-[#21384299] mt-6 ">
               <span>✓ Promote Calm </span>

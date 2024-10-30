@@ -15,7 +15,7 @@ const Faqs = () => {
       <div className="h-fit bg-[#FBF9F2]">
         <MaxWidthWrapper>
           <div className="h-full py-40">
-            <p className="mb-4">We're here to help you</p>
+            <p className="mb-4">Were here to help you</p>
             <h1 className="font-bold text-2xl mb-8 min-[400px]:text-[40px] md:text-[60px] text-[#12305B]">
               How can we assist?
             </h1>
@@ -52,7 +52,7 @@ const Faqs = () => {
                   inhale, and then exhale out your nose. Inhaling the melatonin
                   allows for a near-instant effect, and also allows you to
                   experience the soothing aromatherapeutic effect of lavender
-                  and chamomile.{" "}
+                  and chamomile.
                 </AccordionContent>
               </AccordionItem>
 
@@ -100,7 +100,7 @@ const Faqs = () => {
 
               <AccordionItem value="item-5">
                 <AccordionTrigger className="font-normal text-[#12305B] hover:no-underline text-lg text-left md:text-center">
-                  Q5: What's in it?
+                  Q5: Whats in it?
                 </AccordionTrigger>
                 <AccordionContent>
                   Inhaling on the diffuser will turn the inside liquids
@@ -113,7 +113,7 @@ const Faqs = () => {
               </AccordionItem>
               <AccordionItem value="item-6">
                 <AccordionTrigger className="font-normal text-[#12305B] hover:no-underline text-lg text-left md:text-center">
-                  Q6: What's not in it?
+                  Q6: Whats not in it?
                 </AccordionTrigger>
                 <AccordionContent>
                   Inhaling on the diffuser will turn the inside liquids

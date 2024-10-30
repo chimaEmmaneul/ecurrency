@@ -18,7 +18,7 @@ const shop = () => {
 
       <MaxWidthWrapper>
         <div className="absolute  top-[300px] md:top-52  text-center md:text-left">
-          <p>We're here to help you</p>
+          <p>Were here to help you</p>
           <h1 className=" text-[40px]  sm:text-[60px] font-bold">
             Relax & Rest
           </h1>
