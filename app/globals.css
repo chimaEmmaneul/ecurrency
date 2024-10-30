@@ -86,3 +86,29 @@
     @apply bg-background text-foreground;
   }
 }
+.t{
+    @apply shadow-[50px_50px_100px_0px_#00000025];
+}
+
+.custom-pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  height: 100%;
+}
+
+.custom-pagination .custom-bullet {
+  width: 8px !important;
+  height: 8px !important;
+  background-color: #C4C4C4 !important;
+  border-radius: 50%;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.custom-pagination .custom-bullet-active {
+  background-color: #C4C4C4 !important;
+  width: 16px !important;
+  height: 8px !important;
+  border-radius: 20px;
+}
